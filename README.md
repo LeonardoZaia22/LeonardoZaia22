@@ -6,8 +6,25 @@
 
 <div align="center">
 
-![Coluna1](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=800&color=000080&center=true&vCenter=true&width=200&lines=HTML5;CSS3;JavaScript;Python;Java)
-
-![Coluna2](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=800&color=000080&center=true&vCenter=true&width=200&lines=MySQL;App+Inventor;Flutter;Figma;Photoshop)
+<table>
+  <tr>
+    <td align="center">
+      <b> HABILIDADES</b><br><br>
+      <sub>HTML5</sub><br>
+      <sub>CSS3</sub><br>
+      <sub>JavaScript</sub><br>
+      <sub>Python</sub><br>
+      <sub>Java</sub>
+    </td>
+    <td align="center">
+      <b> FERRAMENTAS</b><br><br>
+      <sub>MySQL</sub><br>
+      <sub>App Inventor</sub><br>
+      <sub>Flutter</sub><br>
+      <sub>Figma</sub><br>
+      <sub>Photoshop</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
