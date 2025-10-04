@@ -2,14 +2,13 @@
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&weight=600&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=700&lines=SOU+LEONARDO+ZAIA;ESTUDANTE+DE+INFORMÁTICA;ETEC+MARIA+CRISTINA+MEDEIROS)
 
+<br>
+
+![HabilidadesTitle](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&weight=600&duration=2000&pause=1000&color=000080&center=true&vCenter=true&width=300&lines=💻+HABILIDADES)
+
 </div>
 
-## <span style="color:#000080">HABILIDADES</span>
-
 <div align="center">
-
-
-<br>
 
 <img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
