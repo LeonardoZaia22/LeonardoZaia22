@@ -8,7 +8,6 @@
 
 <div align="center">
 
-![Habilidades](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=600&lines=HTML5+|+CSS3+|+JavaScript+|+Python;Java+|+MySQL+|+App+Inventor+|+Flutter;Figma+|+Photoshop+|+Edição+de+Imagens)
 
 <br>
 
