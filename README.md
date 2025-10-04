@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**LeonardoZaia22/LeonardoZaia22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&weight=600&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=700&lines=SOU+LEONARDO+ZAIA;ESTUDANTE+DE+INFORMÁTICA;ETEC+MARIA+CRISTINA+MEDEIROS)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <span style="color:#000080">HABILIDADES</span>
+
+<div align="center">
+
+![Habilidades](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=600&lines=HTML5+|+CSS3+|+JavaScript+|+Python;Java+|+MySQL+|+App+Inventor+|+Flutter;Figma+|+Photoshop+|+Edição+de+Imagens)
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-FF6B35?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d1117" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117" alt="JavaScript" />
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=0d1117" alt="Java" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117" alt="MySQL" />
+<br>
+<img src="https://img.shields.io/badge/App_Inventor-FF6B6B?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117" alt="App Inventor" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0d1117" alt="Flutter" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117" alt="Figma" />
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=0d1117" alt="Photoshop" />
+
+</div>
