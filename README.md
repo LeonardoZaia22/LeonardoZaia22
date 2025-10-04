@@ -1,30 +1,4 @@
-<div align="center">
-
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&weight=600&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=700&lines=SOU+LEONARDO+ZAIA;ESTUDANTE+DE+INFORMÁTICA;ETEC+MARIA+CRISTINA+MEDEIROS)
-
+<div align="center" style="background-color:#0d1117; padding:40px; border-radius:20px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&weight=600&duration=4000&pause=1500&color=000080&center=true&vCenter=true&width=900&lines=Olá,+sou+Leonardo+Zaia;Estudante+de+Informática+da+ETEC+MCM;Conhecimentos:+HTML5+•+CSS3+•+JavaScript+•+Java+•+MySQL;Ferramentas:+VS+Code+•+App+Inventor+•+Flutter+•+Figma+•+Photoshop" alt="Leonardo Zaia typing animation" />
 </div>
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <b> HABILIDADES</b><br><br>
-      <sub>HTML5</sub><br>
-      <sub>CSS3</sub><br>
-      <sub>JavaScript</sub><br>
-      <sub>Python</sub><br>
-      <sub>Java</sub>
-    </td>
-    <td align="center">
-      <b> FERRAMENTAS</b><br><br>
-      <sub>MySQL</sub><br>
-      <sub>App Inventor</sub><br>
-      <sub>Flutter</sub><br>
-      <sub>Figma</sub><br>
-      <sub>Photoshop</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
